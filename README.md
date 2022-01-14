@@ -3,29 +3,26 @@
 
 - 🔭 I’m currently working on [Hand-Out](https://github.com/usamekilicbay/hand-out)
 
-- 🌱 I’m currently learning **.NET 6, Angular, SignalR, Javascript**
+- 🌱 I’m currently learning **.NET 6, Angular, SignalR, JavaScript**
 
 - 💬 Ask me about **C#, ASP.NET, SOLID**
 
-- 🤔 I’m looking for help with landing an on-site job from **Europe** 
+- 🤔 I’m looking for help with landing an on-site job from **Europe**
 
 - ⚡ Fun fact: Despite only ten months of professional experience, I'm as good as a mid-level developer.
 
-- 💢 Not fun fact: I disapprove of careless developed projects. If you do something, try to do it as close as perfect. 
+- 💢 Not fun fact: I disapprove of careless developed projects. If you do something, try to do it as close as perfect.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=usamekilicbay&label=Profile%20views&color=0e75b6&style=flat" alt="usamekilicbay" />
 </p>
 
-<p align="center"> 
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=usamekilicbay&margin-w=10&theme=onedark&title=MultiLanguage,Commits,Repositories" alt="usamekilicbay"/>
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=usamekilicbay&margin-w=10&column=3&theme=onedark&title=MultiLanguage,Commits,Repositories"
+      alt="usamekilicbay"
+    />
   </a>
 </p>
 
@@ -52,66 +49,221 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" style="background-color:white;">
-  <h4 align="left">I'm confident about:</h4>
-     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="csharp" width="40" height="40"/>
-    </a>
-    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" alt="dotnet" width="40" height="40"/>
-    </a>
-    <a href="https://unity.com/" target="_blank" rel="noreferrer" >
-      <img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" alt="unity" width="40" height="40"/>
-    </a>
-  
-  <h4 align="left">I can say I know:</h4>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-     <a href="https://postman.com" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-    </a>
- 
-  <h4 align="left">Still a newbie:</h4>
-    <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-      <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-    </a>
-     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
-     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-    </a>
-</p>
+<div style="display: flex; justify-content: center">
+  <div
+    style="
+      display: inline-block;
+      width: 50%;
+      margin: 1em 0 5em;
+      padding: 0.5em 2em 2em;
+      border: 2px dotted gray;
+      border-radius: 5px;
+    "
+  >
+    <h3 align="left">Languages and Tools:</h3>
+    <div>
+      <h3 style="text-align: center">I'm confident about 😎</h3>
+      <div style="display: flex; flex-direction: row; justify-content: center">
+        <a
+          href="https://www.w3schools.com/cs/"
+          style="margin: 0px 10px; text-decoration: none"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img
+            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"
+            alt="csharp"
+            width="40"
+            height="40"
+          />
+        </a>
+        <a
+          href="https://dotnet.microsoft.com/"
+          style="margin: 0px 10px; text-decoration: none"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img
+            src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png"
+            alt="dotnet"
+            width="40"
+            height="40"
+          />
+        </a>
+        <a
+          href="https://unity.com/"
+          style="margin: 0px 10px; text-decoration: none"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img
+            style="background-color: white; border-radius: 100%"
+            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"
+            alt="unity"
+            width="40"
+            height="40"
+          />
+        </a>
+      </div>
+    </div>
+    <div>
+      <h3 style="text-align: center">I can say I know 🧐</h3>
+      <div style="display: flex; flex-direction: row; justify-content: center">
+        <a
+          href="https://getbootstrap.com"
+          style="margin: 0px 10px; text-decoration: none"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+            alt="bootstrap"
+            width="40"
+            height="40"
+          />
+        </a>
+        <a
+          href="https://git-scm.com/"
+          style="margin: 0px 10px; text-decoration: none"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img
+            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+            alt="git"
+            width="40"
+            height="40"
+          />
+        </a>
+        <a
+          href="https://www.microsoft.com/en-us/sql-server"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img
+            src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
+            alt="mssql"
+            width="40"
+            height="40"
+          />
+        </a>
+        <a
+          href="https://www.w3.org/html/"
+          style="margin: 0px 10px; text-decoration: none"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+            alt="html5"
+            width="40"
+            height="40"
+          />
+        </a>
+        <a
+          href="https://postman.com"
+          style="margin: 0px 10px; text-decoration: none"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img
+            src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+            alt="postman"
+            width="40"
+            height="40"
+          />
+        </a>
+      </div>
+    </div>
+    <div>
+      <h3 style="text-align: center">Still a newbie 😇</h3>
+      <div style="display: flex; flex-direction: row; justify-content: center">
+        <a
+          href="https://angular.io"
+          style="margin: 0px 10px; text-decoration: none"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img
+            src="https://angular.io/assets/images/logos/angular/angular.svg"
+            alt="angular"
+            width="40"
+            height="40"
+          />
+        </a>
+        <a
+          href="https://www.docker.com/"
+          style="margin: 0px 10px; text-decoration: none"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+            alt="docker"
+            width="40"
+            height="40"
+          />
+        </a>
+        <a
+          href="https://www.w3schools.com/css/"
+          style="margin: 0px 10px; text-decoration: none"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+            alt="css3"
+            width="40"
+            height="40"
+          />
+        </a>
+        <a
+          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+          style="margin: 0px 10px; text-decoration: none"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+            alt="javascript"
+            width="40"
+            height="40"
+          />
+        </a>
+        <a
+          href="https://firebase.google.com/"
+          style="margin: 0px 10px; text-decoration: none"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img
+            src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+            alt="firebase"
+            width="40"
+            height="40"
+          />
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=usamekilicbay&show_icons=true&locale=en&layout=compact" alt="usamekilicbay" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usamekilicbay&" alt="usamekilicbay" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats-steel-gamma.vercel.app/api?username=usamekilicbay&show_icons=true&theme=radical">
-</p>
-
+<div style="display: flex; flex-direction: column">
+  <img
+    style="margin: 2em"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=usamekilicbay&show_icons=true&locale=en&layout=compact"
+    alt="usamekilicbay"
+  />
+  <img
+    style="margin: 2em"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=usamekilicbay&"
+    alt="usamekilicbay"
+  />
+  <img
+    style="margin: 2em"
+    src="https://github-readme-stats-steel-gamma.vercel.app/api?username=usamekilicbay&count_private=true&show_icons=true&theme=radical"
+  />
+</div>
 <!--
 **usamekilicbay/usamekilicbay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -125,4 +277,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
