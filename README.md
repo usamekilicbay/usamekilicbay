@@ -84,8 +84,8 @@
           rel="noreferrer"
         >
           <img
-            src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png"
-            alt="dotnet"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"
+            alt="dotnetcore"
             width="40"
             height="40"
           />
@@ -107,8 +107,73 @@
       </div>
     </div>
     <div>
-      <h3 style="text-align: center">I can say I know 🧐</h3>
+      <h3 style="text-align: center">I'm not an expert but I know 🧐</h3>
       <div style="display: flex; flex-direction: row; justify-content: center">
+       <a
+          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+          style="margin: 0px 10px; text-decoration: none"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+            alt="javascript"
+            width="40"
+            height="40"
+          />
+        </a>
+        <a
+          href="https://jquery.com/"
+          style="margin: 0px 10px; text-decoration: none"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"
+            alt="jquery"
+            width="40"
+            height="40"
+          />
+        </a>
+        <a
+          href="https://www.w3.org/html/"
+          style="margin: 0px 10px; text-decoration: none"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+            alt="html5"
+            width="40"
+            height="40"
+          />
+        </a>
+         <a
+          href="https://www.w3schools.com/css/"
+          style="margin: 0px 10px; text-decoration: none"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+            alt="css3"
+            width="40"
+            height="40"
+          />
+        </a>
+        <a
+          href="https://tailwindcss.com//"
+          style="margin: 0px 10px; text-decoration: none"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"
+            alt="tailwindcss"
+            width="40"
+            height="40"
+          />
+        </a>
         <a
           href="https://getbootstrap.com"
           style="margin: 0px 10px; text-decoration: none"
@@ -143,19 +208,6 @@
           <img
             src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
             alt="mssql"
-            width="40"
-            height="40"
-          />
-        </a>
-        <a
-          href="https://www.w3.org/html/"
-          style="margin: 0px 10px; text-decoration: none"
-          target="_blank"
-          rel="noreferrer"
-        >
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5"
             width="40"
             height="40"
           />
@@ -200,32 +252,6 @@
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
             alt="docker"
-            width="40"
-            height="40"
-          />
-        </a>
-        <a
-          href="https://www.w3schools.com/css/"
-          style="margin: 0px 10px; text-decoration: none"
-          target="_blank"
-          rel="noreferrer"
-        >
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3"
-            width="40"
-            height="40"
-          />
-        </a>
-        <a
-          href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-          style="margin: 0px 10px; text-decoration: none"
-          target="_blank"
-          rel="noreferrer"
-        >
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript"
             width="40"
             height="40"
           />
