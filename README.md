@@ -65,13 +65,13 @@
       <h3 style="text-align: center">I'm confident about 😎</h3>
       <div style="display: flex; flex-direction: row; justify-content: center">
         <a
-          href="https://www.w3schools.com/cs/"
+          href="https://docs.microsoft.com/en-us/dotnet/csharp/"
           style="margin: 0px 10px; text-decoration: none"
           target="_blank"
           rel="noreferrer"
         >
           <img
-            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
             alt="csharp"
             width="40"
             height="40"
@@ -91,14 +91,39 @@
           />
         </a>
         <a
+          href="https://visualstudio.microsoft.com/"
+          style="margin: 0px 10px; text-decoration: none"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"
+            alt="visualstudio"
+            width="40"
+            height="40"
+          />
+        </a>
+        <a
+          href="https://code.visualstudio.com/"
+          style="margin: 0px 10px; text-decoration: none"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
+            alt="dotnetcore"
+            width="40"
+            height="40"
+          />
+        </a>
+        <a
           href="https://unity.com/"
           style="margin: 0px 10px; text-decoration: none"
           target="_blank"
           rel="noreferrer"
         >
           <img
-            style="background-color: white; border-radius: 100%"
-            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg"
             alt="unity"
             width="40"
             height="40"
@@ -118,6 +143,19 @@
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript"
+            width="40"
+            height="40"
+          />
+        </a>
+        <a
+          href="https://www.typescriptlang.org/"
+          style="margin: 0px 10px; text-decoration: none"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+            alt="typescript"
             width="40"
             height="40"
           />
@@ -168,7 +206,7 @@
           rel="noreferrer"
         >
           <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"
             alt="tailwindcss"
             width="40"
             height="40"
@@ -181,7 +219,7 @@
           rel="noreferrer"
         >
           <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"
             alt="bootstrap"
             width="40"
             height="40"
@@ -206,7 +244,7 @@
           rel="noreferrer"
         >
           <img
-            src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
             alt="mssql"
             width="40"
             height="40"
