@@ -1,5 +1,9 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px">, I'm Usame</h1>
-<h3 align="center">A self-taught, perfectionist,  web & formal game developer</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px" />, I'm Usame</h1>
+<h3 align="center">A self-taught software developer, who has eternal starvation to learn</h3>
+
+<p align=center>
+    <img align=center src="https://c.tenor.com/tddnq2uAZkcAAAAi/grin-doomguy.gif" width="80px" height="80px" />
+</p>
 
 - 🔭 I’m currently working on [Hand-Out](https://github.com/usamekilicbay/hand-out)
 
@@ -7,15 +11,15 @@
 
 - 💬 Ask me about **C#, ASP.NET, SOLID**
 
-- 🤔 I’m looking for help with landing an on-site job from **Europe**
+- 🤔 I’m looking for help with landing an on-site/remote job in **Europe**
 
 - ⚡ Fun fact: Despite only ten months of professional experience, I'm as good as a mid-level developer.
 
 - 💢 Not fun fact: I disapprove of careless developed projects. If you do something, try to do it as close as perfect.
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=usamekilicbay&label=Profile%20views&color=0e75b6&style=flat" alt="usamekilicbay" />
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -31,7 +35,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/usamekilicbay" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usamekilicbay"     height="30" width="30" />
   </a>
@@ -60,7 +64,7 @@
       border-radius: 5px;
     "
   >
-    <h3 align="left">Languages and Tools:</h3>
+    <h2 align="left">Languages and Tools:</h2>
     <div>
       <h3 style="text-align: center">I'm confident about 😎</h3>
       <div style="display: flex; flex-direction: row; justify-content: center">
