@@ -1,6 +1,14 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px" />, I'm Üsame
 
-<audio id="myAudio" preload="auto" src="media/usame.mp3"></audio>
+[![MP3](https://i.stack.imgur.com/Vp2cE.png)](usame.mp3)
+
+[![MP4](https://i.stack.imgur.com/Vp2cE.png)](usame.mp4)
+
+[![MP3](MP3)](usame.mp3)
+
+[![MP4](MP4)](usame.mp4)
+
+<audio id="myAudio" preload="auto" src="usame.mp3"></audio>
 
 <button onclick="document.getElementById('myAudio').play()">Play</button>
 
