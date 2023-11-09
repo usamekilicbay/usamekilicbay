@@ -8,7 +8,6 @@
 <h6>2- When I work with physics and maths</h6>
 <h6>3- Bugs are trying to break my clean code (good luck 🥱)</h6>
 
-<img align=center src="https://media.tenor.com/EXBaKnJud_AAAAAd/leorio-hxh.gif" width="150px" height="80px" />
 <img align=center src="https://media.tenor.com/bmcU6fpKS4YAAAAd/gon-gon-confused.gif" width="80" height="80px" />
 <img align=center src="https://media.tenor.com/WP2fTVOkNlIAAAAC/hunter-x-hunter-netero.gif" width="150" height="80px" />
 
