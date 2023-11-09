@@ -1,17 +1,22 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px" />, I'm Usame</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px" />, I'm Üsame
+
+<audio id="myAudio" preload="auto" src="media/usame.mp3"></audio>
+
+<button onclick="document.getElementById('myAudio').play()">Play</button>
+
 <h3 align="center">A self-taught software developer, who has eternal starvation to learn</h3>
 
 <p align=center>
     <img align=center src="https://c.tenor.com/tddnq2uAZkcAAAAi/grin-doomguy.gif" width="80px" height="80px" />
 </p>
 
-- 🔭 I’m currently working on [Hand-Out](https://github.com/usamekilicbay/hand-out)
+- 🔭 .NET Developer at [Ericsson](https://www.ericsson.com/en)
 
-- 🌱 I’m currently learning **.NET 6, Angular, SignalR, JavaScript**
+- 🌱 Currently working with **Godot**, **C#**, and **.NET 7**
 
-- 💬 Ask me about **C#, ASP.NET, SOLID**
+- 💬 Ask me about **C#, Unity, Godot Engine, Game Design, Clean Code, .NET**
 
-- 🤔 I’m looking for help with landing an on-site/remote job in **Europe**
+- 🤔 I’m looking for an indie studio to work in **Indonesia**
 
 - ⚡ Fun fact: Despite only ten months of professional experience, I'm as good as a mid-level developer.
 
