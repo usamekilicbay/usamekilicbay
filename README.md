@@ -1,18 +1,19 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px" />, I'm Üsame
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px" />, I'm Üsame </h1>
 
-<h4> 
-    (pronounce:)
-    <audio controls style="width: 100px; height:20px;">
-        <source src="media/usame.mp3"> </source>
-    </audio>
-</h4>
-
-</h1>
+[(pronounce Üsame)](https://drive.google.com/file/d/1fFIVoylwxUhcrxc8uFCabuRK4Yu5f0Fz/view?usp=drive_link)
 
 <h3 align="center">A self-taught software developer with experience in Game and Backend</h3>
 
+##### 1- If I see spaghetti code
+
+##### 2- When I work with physics and maths
+
+##### 3- Bugs are trying to break my clean code (good luck 🥱)
+
 <p align=center>
-    <img align=center src="https://c.tenor.com/tddnq2uAZkcAAAAi/grin-doomguy.gif" width="80px" height="80px" />
+    <img align=center src="https://media.tenor.com/EXBaKnJud_AAAAAd/leorio-hxh.gif" width="150px" height="80px" />
+    <img align=center src="https://media.tenor.com/bmcU6fpKS4YAAAAd/gon-gon-confused.gif" width="80" height="80px" />
+    <img align=center src="https://media.tenor.com/WP2fTVOkNlIAAAAC/hunter-x-hunter-netero.gif" width="150" height="80px" />
 </p>
 
 - 💻 .NET Developer at [Ericsson](https://www.ericsson.com/en)
@@ -25,7 +26,7 @@
 
 - 🐧 Fun fact: I don't have a university degree :)
 
-- 🍕 Ah! Also a **foodie**!
+- 🍕 Ah! Also a **foodie**! Employement contracts should include BBQ/week
 
 <!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=usamekilicbay&label=Profile%20views&color=0e75b6&style=flat" alt="usamekilicbay" />
