@@ -4,9 +4,9 @@
 
 <h3 align="center">A self-taught software developer with experience in Game and Backend</h3>
 
-| <img src="https://media.tenor.com/EXBaKnJud_AAAAAd/leorio-hxh.gif" width="150px" height="80px" /> | <img src="https://media.tenor.com/bmcU6fpKS4YAAAAd/gon-gon-confused.gif" width="80px" height="80px" /> | <img src="https://media.tenor.com/WP2fTVOkNlIAAAAd/hunter-x-hunter-netero.gif" width="150px" height="80px" /> |
-| :-----------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
-|                                      If I see spaghetti code                                      |                                   When I work with physics and maths                                   |                             Bugs are trying to break my clean code (good luck 🥱)                             |
+| <img src="https://media.tenor.com/EXBaKnJud_AAAAAd/leorio-hxh.gif" width="150px" height="80px" /> | <img src="https://media.tenor.com/Rha6TlXId_oAAAAd/gon-freecss-wondering.gif" width="80px" height="80px" /> | <img src="https://media.tenor.com/WP2fTVOkNlIAAAAd/hunter-x-hunter-netero.gif" width="150px" height="80px" /> |
+| :-----------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
+|                                      If I see spaghetti code                                      |                                     When I work with physics and maths                                      |                             Bugs are trying to break my clean code (good luck 🥱)                             |
 
 ---
 
