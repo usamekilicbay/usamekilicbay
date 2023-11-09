@@ -4,13 +4,9 @@
 
 <h3 align="center">A self-taught software developer with experience in Game and Backend</h3>
 
-<h6>1- If I see spaghetti code</h6>
-<h6>2- When I work with physics and maths</h6>
-<h6>3- Bugs are trying to break my clean code (good luck 🥱)</h6>
-
-<img align=left src="https://media.tenor.com/EXBaKnJud_AAAAAd/leorio-hxh.gif" width="150px" height="80px" />
-<img align=center src="https://media.tenor.com/bmcU6fpKS4YAAAAd/gon-gon-confused.gif" width="80px" height="80px" />
-<img align=right src="https://media.tenor.com/WP2fTVOkNlIAAAAC/hunter-x-hunter-netero.gif" width="150px" height="80px" />
+| <img src="https://media.tenor.com/EXBaKnJud_AAAAAd/leorio-hxh.gif" width="150px" height="80px" /> | <img src="https://media.tenor.com/bmcU6fpKS4YAAAAd/gon-gon-confused.gif" width="80px" height="80px" /> | <img src="https://media.tenor.com/WP2fTVOkNlIAAAAC/hunter-x-hunter-netero.gif" width="150px" height="80px" /> |
+| :-----------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
+|                                      If I see spaghetti code                                      |                                   When I work with physics and maths                                   |                             Bugs are trying to break my clean code (good luck 🥱)                             |
 
 ---
 
