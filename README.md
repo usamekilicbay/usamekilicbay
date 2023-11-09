@@ -1,34 +1,31 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" height="40px" />, I'm Üsame
 
-[![MP3](https://i.stack.imgur.com/Vp2cE.png)](usame.mp3)
+<h4> 
+    (pronounce:)
+    <audio controls style="width: 100px; height:20px;">
+        <source src="media/usame.mp3"> </source>
+    </audio>
+</h4>
 
-[![MP4](https://i.stack.imgur.com/Vp2cE.png)](usame.mp4)
+</h1>
 
-[![MP3](MP3)](usame.mp3)
-
-[![MP4](MP4)](usame.mp4)
-
-<audio id="myAudio" preload="auto" src="usame.mp3"></audio>
-
-<button onclick="document.getElementById('myAudio').play()">Play</button>
-
-<h3 align="center">A self-taught software developer, who has eternal starvation to learn</h3>
+<h3 align="center">A self-taught software developer with experience in Game and Backend</h3>
 
 <p align=center>
     <img align=center src="https://c.tenor.com/tddnq2uAZkcAAAAi/grin-doomguy.gif" width="80px" height="80px" />
 </p>
 
-- 🔭 .NET Developer at [Ericsson](https://www.ericsson.com/en)
+- 💻 .NET Developer at [Ericsson](https://www.ericsson.com/en)
 
-- 🌱 Currently working with **Godot**, **C#**, and **.NET 7**
+- ✨ Currently working with **Godot**, **C#**, and **.NET 7**
 
 - 💬 Ask me about **C#, Unity, Godot Engine, Game Design, Clean Code, .NET**
 
-- 🤔 I’m looking for an indie studio to work in **Indonesia**
+- 🧐 I’m looking for a on-site position in an **Indonesian** 🇮🇩 **Indie Game Studio** 🎮
 
-- ⚡ Fun fact: Despite only ten months of professional experience, I'm as good as a mid-level developer.
+- 🐧 Fun fact: I don't have a university degree :)
 
-- 💢 Not fun fact: I disapprove of careless developed projects. If you do something, try to do it as close as perfect.
+- 🍕 Ah! Also a **foodie**!
 
 <!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=usamekilicbay&label=Profile%20views&color=0e75b6&style=flat" alt="usamekilicbay" />
@@ -47,16 +44,16 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/usamekilicbay" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usamekilicbay"     height="30" width="30" />
   </a>
-  <a href="mailto:usamekilicbay@gmail.com" target="blank">
-    <img align="center" src="https://icons-for-free.com/iconfiles/png/512/book+contact+contacts+email+gmail+square+icon-1320073244791218167.png" alt="usamekilicbay" height="30" width="30" />
+  <a href="mailto:usame.kilicbay@gmail.com" target="blank">
+    <img align="center" src="https://icons-for-free.com/iconfiles/png/512/book+contact+contacts+email+gmail+square+icon-1320073244791218167.png" alt="usame.kilicbay" height="30" width="30" />
   </a>
   <a href="https://stackoverflow.com/users/usame-kilicbay" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="usame-             kilicbay" height="30" width="30" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="usame-kilicbay" height="30" width="30" />
   </a>
   <a href="https://medium.com/@usame.kilicbay" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@usame.kilicbay"           height="30" width="30" />
@@ -94,41 +91,15 @@
             height="40"
           />
         </a>
-        <a
-          href="https://dotnet.microsoft.com/"
+         <a
+          href="https://godotengine.org/"
           style="margin: 0px 10px; text-decoration: none"
           target="_blank"
           rel="noreferrer"
         >
           <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"
-            alt="dotnetcore"
-            width="40"
-            height="40"
-          />
-        </a>
-        <a
-          href="https://visualstudio.microsoft.com/"
-          style="margin: 0px 10px; text-decoration: none"
-          target="_blank"
-          rel="noreferrer"
-        >
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"
-            alt="visualstudio"
-            width="40"
-            height="40"
-          />
-        </a>
-        <a
-          href="https://code.visualstudio.com/"
-          style="margin: 0px 10px; text-decoration: none"
-          target="_blank"
-          rel="noreferrer"
-        >
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
-            alt="dotnetcore"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg"
+            alt="godotengine"
             width="40"
             height="40"
           />
@@ -146,11 +117,76 @@
             height="40"
           />
         </a>
+        <a
+          href="https://dotnet.microsoft.com/"
+          style="margin: 0px 10px; text-decoration: none"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"
+            alt="dotnetcore"
+            width="40"
+            height="40"
+          />
+        </a>
       </div>
     </div>
     <div>
-      <h3 style="text-align: center">I'm not an expert but I know 🧐</h3>
+      <h3 style="text-align: center">Meh 🎭
       <div style="display: flex; flex-direction: row; justify-content: center">
+      <a
+          href="https://git-scm.com/"
+          style="margin: 0px 10px; text-decoration: none"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img
+            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+            alt="git"
+            width="40"
+            height="40"
+          />
+        </a>
+        <a
+          href="https://postman.com"
+          style="margin: 0px 10px; text-decoration: none"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img
+            src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+            alt="postman"
+            width="40"
+            height="40"
+          />
+        </a>
+         <a
+          href="https://dbeaver.io"
+          style="margin: 0px 10px; text-decoration: none"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img
+            src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png"
+            alt="dbeaver"
+            width="40"
+            height="40"
+          />
+        </a>
+        <a
+          href="https://postgresql.com"
+          style="margin: 0px 10px; text-decoration: none"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
+            alt="postgres"
+            width="40"
+            height="40"
+          />
+        </a>
        <a
           href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
           style="margin: 0px 10px; text-decoration: none"
@@ -177,20 +213,9 @@
             height="40"
           />
         </a>
-        <a
-          href="https://jquery.com/"
-          style="margin: 0px 10px; text-decoration: none"
-          target="_blank"
-          rel="noreferrer"
-        >
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"
-            alt="jquery"
-            width="40"
-            height="40"
-          />
-        </a>
-        <a
+      </div>
+      <div style="display: flex; flex-direction: row; justify-content: center">
+      <a
           href="https://www.w3.org/html/"
           style="margin: 0px 10px; text-decoration: none"
           target="_blank"
@@ -243,19 +268,6 @@
           />
         </a>
         <a
-          href="https://git-scm.com/"
-          style="margin: 0px 10px; text-decoration: none"
-          target="_blank"
-          rel="noreferrer"
-        >
-          <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-            alt="git"
-            width="40"
-            height="40"
-          />
-        </a>
-        <a
           href="https://www.microsoft.com/en-us/sql-server"
           target="_blank"
           rel="noreferrer"
@@ -267,23 +279,7 @@
             height="40"
           />
         </a>
-        <a
-          href="https://postman.com"
-          style="margin: 0px 10px; text-decoration: none"
-          target="_blank"
-          rel="noreferrer"
-        >
-          <img
-            src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-            alt="postman"
-            width="40"
-            height="40"
-          />
-        </a>
       </div>
-    </div>
-    <div>
-      <h3 style="text-align: center">Still a newbie 😇</h3>
       <div style="display: flex; flex-direction: row; justify-content: center">
         <a
           href="https://angular.io"
@@ -325,8 +321,8 @@
           />
         </a>
       </div>
+      </div>
     </div>
-  </div>
 </div>
 
 <div style="display: flex; flex-direction: column">
