@@ -4,26 +4,9 @@
 
 <h3 align="center">A self-taught software (Full Stack & Game) developer</h3>
 
-<div style="display: flex; justify-content: center">
-<div width="50%">
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://media.tenor.com/EXBaKnJud_AAAAAd/leorio-hxh.gif" height="100px" />
-      <p>When I see spaghetti code</p>
-    </td>
-    <td align="center" style="padding: 0 1em;">
-      <img src="https://media.tenor.com/Rha6TlXId_oAAAAd/gon-freecss-wondering.gif" height="100px" />
-      <p>When I work on Frontend</p>
-    </td>
-    <td align="center">
-      <img src="https://media.tenor.com/WP2fTVOkNlIAAAAd/hunter-x-hunter-netero.gif" height="100px" />
-      <p>Bugs vs My Unit Test</p>
-    </td>
-  </tr>
-</table>
-</div>
-</div>
+| ![Spaghetti Code](https://media.tenor.com/EXBaKnJud_AAAAAd/leorio-hxh.gif) <br> When I see spaghetti code | ![Frontend Work](https://media.tenor.com/Rha6TlXId_oAAAAd/gon-freecss-wondering.gif) <br> When I work on Frontend | ![Bugs vs Unit Test](https://media.tenor.com/WP2fTVOkNlIAAAAd/hunter-x-hunter-netero.gif) <br> Bugs vs My Unit Test |
+| :-------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
+
 ---
 
 - 📍 Based in Jakarta, Indonesia 🇮🇩
