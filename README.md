@@ -4,9 +4,20 @@
 
 <h3 align="center">A self-taught software (Full Stack & Game) developer</h3>
 
-| <img align="center" src="https://media.tenor.com/EXBaKnJud_AAAAAd/leorio-hxh.gif" width="150px" height="80px" /> | <img src="https://media.tenor.com/Rha6TlXId_oAAAAd/gon-freecss-wondering.gif" width="80px" height="80px" /> | <img src="https://media.tenor.com/WP2fTVOkNlIAAAAd/hunter-x-hunter-netero.gif" width="150px" height="80px" /> |
-| :--------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
-|                                            When I see spaghetti code                                             |                                           When I work on Frontend                                           |                                             Bugs vs My Unit Test                                              |
+<div style="display: flex; justify-content: space-between; align-items: center; text-align: center; outline: 1px dotted; #000;">
+  <div>
+    <img src="https://media.tenor.com/EXBaKnJud_AAAAAd/leorio-hxh.gif" width="100px" height="100px" />
+    <div>When I see spaghetti code</div>
+  </div>
+  <div style="outline: 1px dotted; #000; margin: 0px 10px; padding: 10px">
+    <img src="https://media.tenor.com/Rha6TlXId_oAAAAd/gon-freecss-wondering.gif" width="100px" height="100px" />
+    <div>When I work on Frontend</div>
+  </div>
+  <div>
+    <img src="https://media.tenor.com/WP2fTVOkNlIAAAAd/hunter-x-hunter-netero.gif" width="100px" height="100px" />
+    <div>Bugs vs My Unit Test</div>
+  </div>
+</div>
 
 ---
 
@@ -66,9 +77,8 @@
   <div
     align=center
     style="
-      display: inline-block;
-      width: 70%;
-      margin: 1em 0 5em;
+      width: 100%;
+      margin: 1em 0;
       padding: 0.5em 2em 2em;
       border: 2px dotted gray;
       border-radius: 5px;
