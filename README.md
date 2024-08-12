@@ -4,17 +4,19 @@
 
 <h3 align="center">A self-taught software (Full Stack & Game) developer</h3>
 
-<div style="display: flex; justify-content: space-between; align-items: center; text-align: center; outline: 1px dotted; #000;">
+<div style="display: flex; justify-content: center;">
   <div>
-    <img src="https://media.tenor.com/EXBaKnJud_AAAAAd/leorio-hxh.gif" width="100px" height="100px" />
-    <div>When I see spaghetti code</div>
+    <img src="https://media.tenor.com/EXBaKnJud_AAAAAd/leorio-hxh.gif"  height="100px" />
+    <p>When I see spaghetti code</p>
   </div>
-  <div style="outline: 1px dotted; #000; margin: 0px 10px; padding: 10px">
-    <img src="https://media.tenor.com/Rha6TlXId_oAAAAd/gon-freecss-wondering.gif" width="100px" height="100px" />
+  <span style="margin: 0px 1em; outline: 1px dotted; #000;" height="100%"></span>
+  <div>
+    <img src="https://media.tenor.com/Rha6TlXId_oAAAAd/gon-freecss-wondering.gif"height="100px" />
     <div>When I work on Frontend</div>
   </div>
+  <span style="margin: 0px 1em; outline: 1px dotted; #000;"></span>
   <div>
-    <img src="https://media.tenor.com/WP2fTVOkNlIAAAAd/hunter-x-hunter-netero.gif" width="100px" height="100px" />
+    <img src="https://media.tenor.com/WP2fTVOkNlIAAAAd/hunter-x-hunter-netero.gif" height="100px" />
     <div>Bugs vs My Unit Test</div>
   </div>
 </div>
