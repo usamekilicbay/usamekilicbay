@@ -62,19 +62,15 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="usamekilicbay"         height="30" width="30" />
   </a>
 </div>
-
-<div style="display: flex; justify-content: center">
-  <div
-    align=center
-    style="
-      width: 100%;
+<div style="width: 100%;
       margin: 1em 0;
       padding: 0.5em 2em 2em;
       border: 2px dotted gray;
-      border-radius: 5px;
-    "
-  >
-    <h2 align="left">Languages and Tools:</h2>
+      border-radius: 5px;">
+    <h3 align="center">Languages and Tools:</h3>
+<div style="display: flex; justify-content: center">
+  <div
+    align=center>
     <div>
       <h3 style="text-align: center">I'm confident with 😎</h3>
       <div style="display: flex; flex-direction: row; justify-content: center">
@@ -326,16 +322,17 @@
         </a>
       </div>
     </div>
+    <div style="margin: auto 0 auto 2em">
+     <img
+    src="https://github-readme-stats-usamekilicbay.vercel.app/api/top-langs?username=usamekilicbay&show_icons=true&locale=en&layout=compact"
+    alt="usamekilicbay"
+  />
+    </div>
 </div>
 
 ---
 
 <div align="center" style="display: flex; flex-direction: column">
-  <img
-    style="margin: 2em"
-    src="https://github-readme-stats-usamekilicbay.vercel.app/api/top-langs?username=usamekilicbay&show_icons=true&locale=en&layout=compact"
-    alt="usamekilicbay"
-  />
   <img
     style="margin: 2em"
     src="https://github-readme-streak-stats.herokuapp.com/?user=usamekilicbay&"
