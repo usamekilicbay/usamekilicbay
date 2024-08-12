@@ -4,7 +4,7 @@
 
 <h3 align="center">A self-taught software (Full Stack & Game) developer</h3>
 
-<div style="display: flex; justify-content: center;">
+<div style="flex-direction: row; display: flex; justify-content: center;">
   <div>
     <img src="https://media.tenor.com/EXBaKnJud_AAAAAd/leorio-hxh.gif"  height="100px" />
     <p>When I see spaghetti code</p>
