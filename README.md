@@ -4,9 +4,9 @@
 
 <h3 align="center">A self-taught software (Full Stack & Game) developer</h3>
 
-| <img src="https://media.tenor.com/EXBaKnJud_AAAAAd/leorio-hxh.gif" width="150px" height="80px" /> | <img src="https://media.tenor.com/Rha6TlXId_oAAAAd/gon-freecss-wondering.gif" width="80px" height="80px" /> | <img src="https://media.tenor.com/WP2fTVOkNlIAAAAd/hunter-x-hunter-netero.gif" width="150px" height="80px" /> |
-| :-----------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
-|                                     When I see spaghetti code                                     |                                           When I work on Frontend                                           |                                             Bugs vs My Unit Test                                              |
+| <img align="center" src="https://media.tenor.com/EXBaKnJud_AAAAAd/leorio-hxh.gif" width="150px" height="80px" /> | <img src="https://media.tenor.com/Rha6TlXId_oAAAAd/gon-freecss-wondering.gif" width="80px" height="80px" /> | <img src="https://media.tenor.com/WP2fTVOkNlIAAAAd/hunter-x-hunter-netero.gif" width="150px" height="80px" /> |
+| :--------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
+|                                            When I see spaghetti code                                             |                                           When I work on Frontend                                           |                                             Bugs vs My Unit Test                                              |
 
 ---
 
@@ -67,7 +67,7 @@
     align=center
     style="
       display: inline-block;
-      width: 50%;
+      width: 70%;
       margin: 1em 0 5em;
       padding: 0.5em 2em 2em;
       border: 2px dotted gray;
@@ -328,7 +328,7 @@
     </div>
 </div>
 
-<div style="display: flex; flex-direction: column">
+<div align="center" style="display: flex; flex-direction: column">
   <img
     style="margin: 2em"
     src="https://github-readme-stats-usamekilicbay.vercel.app/api/top-langs?username=usamekilicbay&show_icons=true&locale=en&layout=compact"
