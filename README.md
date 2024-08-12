@@ -4,23 +4,26 @@
 
 <h3 align="center">A self-taught software (Full Stack & Game) developer</h3>
 
-<div style="flex-direction: row; display: flex; justify-content: center;">
-  <div>
-    <img src="https://media.tenor.com/EXBaKnJud_AAAAAd/leorio-hxh.gif"  height="100px" />
-    <p>When I see spaghetti code</p>
-  </div>
-  <span style="margin: 0px 1em; outline: 1px dotted; #000;" height="100%"></span>
-  <div>
-    <img src="https://media.tenor.com/Rha6TlXId_oAAAAd/gon-freecss-wondering.gif"height="100px" />
-    <div>When I work on Frontend</div>
-  </div>
-  <span style="margin: 0px 1em; outline: 1px dotted; #000;"></span>
-  <div>
-    <img src="https://media.tenor.com/WP2fTVOkNlIAAAAd/hunter-x-hunter-netero.gif" height="100px" />
-    <div>Bugs vs My Unit Test</div>
-  </div>
+<div style="display: flex; justify-content: center">
+<div width="50%">
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://media.tenor.com/EXBaKnJud_AAAAAd/leorio-hxh.gif" height="100px" />
+      <p>When I see spaghetti code</p>
+    </td>
+    <td align="center" style="padding: 0 1em;">
+      <img src="https://media.tenor.com/Rha6TlXId_oAAAAd/gon-freecss-wondering.gif" height="100px" />
+      <p>When I work on Frontend</p>
+    </td>
+    <td align="center">
+      <img src="https://media.tenor.com/WP2fTVOkNlIAAAAd/hunter-x-hunter-netero.gif" height="100px" />
+      <p>Bugs vs My Unit Test</p>
+    </td>
+  </tr>
+</table>
 </div>
-
+</div>
 ---
 
 - 📍 Based in Jakarta, Indonesia 🇮🇩
