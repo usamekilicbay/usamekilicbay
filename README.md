@@ -41,6 +41,8 @@
   <img src="https://komarev.com/ghpvc/?username=usamekilicbay&label=Profile%20views&color=0e75b6&style=flat" alt="usamekilicbay" />
 </p> -->
 
+---
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
@@ -337,6 +339,8 @@
       </div>
     </div>
 </div>
+
+---
 
 <div align="center" style="display: flex; flex-direction: column">
   <img
