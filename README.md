@@ -64,6 +64,7 @@
 
 <div style="display: flex; justify-content: center">
   <div
+    align=center
     style="
       display: inline-block;
       width: 50%;
