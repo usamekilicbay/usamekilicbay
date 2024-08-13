@@ -62,12 +62,16 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="usamekilicbay"         height="30" width="30" />
   </a>
 </div>
+
+---
+
 <div align="center">
+  <h3 align="start">Languages & Tools 🧰</h3>
   <table>
     <tr>
       <!-- First Column: Tools -->
       <td align="center">
-      <h3 style="text-align: center">I'm confident with 😎</h3>
+      <h4 style="text-align: center">I'm confident with 😎</h4>
       <div>
         <a
           href="https://docs.microsoft.com/en-us/dotnet/csharp/"
@@ -111,7 +115,7 @@
       </div>
     </div>
     <div>
-      <h3 style="text-align: center">I can work with 🎭
+      <h4 style="text-align: center">I can work with 🎭 </h4>
       <div>
       <a
           href="https://react.dev/"
