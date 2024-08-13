@@ -62,17 +62,13 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="usamekilicbay"         height="30" width="30" />
   </a>
 </div>
-
-<div style="margin: 1em 0;
-      padding: 0.5em 2em 2em;
-      border: 2px dotted gray;
-      border-radius: 5px;">
-    <h3 align="center">Languages and Tools:</h3>
-<div style="display: flex; justify-content: center">
-  <div align=center>
-    <div>
+<div align="center">
+  <table>
+    <tr>
+      <!-- First Column: Tools -->
+      <td align="center">
       <h3 style="text-align: center">I'm confident with 😎</h3>
-      <div style="display: flex; flex-direction: row; justify-content: center">
+      <div>
         <a
           href="https://docs.microsoft.com/en-us/dotnet/csharp/"
           style="margin: 0px 10px; text-decoration: none"
@@ -116,7 +112,7 @@
     </div>
     <div>
       <h3 style="text-align: center">I can work with 🎭
-      <div style="display: flex; flex-direction: row; justify-content: center">
+      <div>
       <a
           href="https://react.dev/"
           style="margin: 0px 10px; text-decoration: none"
@@ -158,7 +154,7 @@
         </a>
       </div>
       </div>
-        <div style="display: flex; flex-direction: row; justify-content: center">
+        <div>
       <a
           href="https://git-scm.com/"
           style="margin: 0px 10px; text-decoration: none"
@@ -212,7 +208,7 @@
           />
         </a>
       </div>
-      <div style="display: flex; flex-direction: row; justify-content: center">
+      <div >
         <a
           href="https://nodejs.org/en"
           target="_blank" 
@@ -320,13 +316,15 @@
           />
         </a>
       </div>
-    </div>
-    <div style="margin: auto 0 auto 2em">
-     <img
-    src="https://github-readme-stats-usamekilicbay.vercel.app/api/top-langs?username=usamekilicbay&show_icons=true&locale=en&layout=compact"
-    alt="usamekilicbay" />
-    </div>
-</div>
+      </td>
+      <!-- Second Column: GitHub Stats -->
+      <td align="center">
+          <img
+            src="https://github-readme-stats-usamekilicbay.vercel.app/api/top-langs?username=usamekilicbay&show_icons=true&locale=en&layout=compact"
+            alt="usamekilicbay" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
