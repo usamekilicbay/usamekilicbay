@@ -67,8 +67,8 @@
 
 <div align="center">
   <h3 align="start">Languages & Tools 🧰</h3>
-  <table>
-    <tr>
+  <table width="100%">
+    <tr width="60%">
       <!-- First Column: Tools -->
       <td align="center">
       <h4 style="text-align: center">I'm confident with 😎</h4>
