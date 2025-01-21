@@ -19,11 +19,11 @@
 
 - 🧐 I’m looking for **contract** **fully remote** positions as a **Backend / Full Stack** developer.
 
-- 🐸 Fun fact: **Usame** means **Lion** and I'm a **Leo** as well 🦁
+- 🦁 **Fun Fact:** My name, **Usame**, means **Lion** in Arabic, and I’m also a proud **Leo**!
 
 - 🍕 Ah! Also a **foodie**! All employement contracts should include BBQ as benefits!
 
-- 🥊I like variety of sports but combat sports on top!
+- 🥊I like variety of sports but Muay Thai & Boxing on top!
 
 <!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=usamekilicbay&label=Profile%20views&color=0e75b6&style=flat" alt="usamekilicbay" />
