@@ -57,6 +57,18 @@
             width="30"
         />
     </a>
+     <a
+        href="https://x.com/usame_kilicbay"
+        target="blank"
+    >
+        <img
+            align="middle"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+            alt="usamekilicbay"
+            height="30"
+            width="30"
+        />
+    </a>
     <a
         href="mailto:usame.kilicbay@gmail.com"
         target="blank"
