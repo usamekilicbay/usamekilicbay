@@ -9,17 +9,17 @@
 
 ---
 
-- 📍 Based in Jakarta, Indonesia 🇮🇩
+- 📍 Based in **Indonesia** 🇮🇩 & **Turkiye** 🇹🇷
 
-- 💻 Last position: .NET Developer at **[Ericsson](https://www.ericsson.com/en)**
+- 💻 Last position: **Full Stack .NET Developer at [Ericsson](https://www.ericsson.com/en)**
 
-- 🪚 Currently working with **React**, **TypeScript**, **Node.js**, **Chrome Extensions** and **.NET C#**
+- 🪚 Currently working with; **TypeScript**, **Node.js**, **Vue.js**,  **Chrome Extensions** and **C# .NET**
 
-- 💬 Ask me about **C#, Unity, Godot Engine, Game Design, Clean Code, .NET, TypeScript/JavaScript**
+- 💬 Ask me about **TypeScript, Node.js, Vue.js, C#, Clean Code, UI/UX, Unity, Godot Engine, Game Design**
 
-- 🧐 I’m looking for a **Backend/Full Stack** position **Fully Remote** or in **Indonesia** 🇮🇩.
+- 🧐 I’m looking for **contract** **fully remote** positions as a **Backend / Full Stack** developer.
 
-- 🐸 Fun fact: I don't have a BS degree, I'm completely self-taught :)
+- 🐸 Fun fact: **Usame** means **Lion** and I'm a **Leo** as well 🦁
 
 - 🍕 Ah! Also a **foodie**! All employement contracts should include BBQ as benefits!
 
@@ -115,9 +115,52 @@
         <tr width="60%">
             <!-- First Column: Tools -->
             <td align="center">
-                <h4 style="text-align: center">I'm confident with 😎</h4>
+                <h4 style="text-align: center">Currently working with 👇🏻</h4>
                 <div>
                     <a
+                            href="https://www.typescriptlang.org/"
+                            style="margin: 0px 10px; text-decoration: none"
+                            target="_blank"
+                            rel="noreferrer"
+                        >
+                            <img
+                                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+                                alt="typescript"
+                                width="60"
+                                height="60"
+                            />
+                        </a>
+                         <a
+                            href="https://nodejs.org/en"
+                            target="_blank"
+                            style="margin: 0px 10px; text-decoration: none"
+                            rel="noreferrer"
+                        >
+                            <img
+                                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+                                alt="nodejs"
+                                width="60"
+                                height="60"
+                            />
+                        </a>
+                         <a
+                            href="https://vuejs.org/"
+                            style="margin: 0px 10px; text-decoration: none"
+                            target="_blank"
+                            rel="noreferrer"
+                        >
+                            <img
+                                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"
+                                alt="vue"
+                                width="60"
+                                height="60"
+                            />
+                        </a>
+                </div>
+                <div>
+                    <h4 style="text-align: center">I also work with 💖 </h4>
+                    <div style="display: flex; flex-direction: row; justify-content: center">
+                     <a
                         href="https://docs.microsoft.com/en-us/dotnet/csharp/"
                         style="margin: 0px 10px; text-decoration: none"
                         target="_blank"
@@ -130,7 +173,7 @@
                             height="60"
                         />
                     </a>
-                    <a
+                         <a
                         href="https://dotnet.microsoft.com/"
                         style="margin: 0px 10px; text-decoration: none"
                         target="_blank"
@@ -142,23 +185,6 @@
                             width="60"
                             height="60"
                         />
-                        <a
-                            href="https://unity.com/"
-                            style="margin: 0px 10px; text-decoration: none"
-                            target="_blank"
-                            rel="noreferrer"
-                        >
-                            <img
-                                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg"
-                                alt="unity"
-                                width="60"
-                                height="60"
-                            />
-                        </a>
-                </div>
-                <div>
-                    <h4 style="text-align: center">I can work with 🎭 </h4>
-                    <div style="display: flex; flex-direction: row; justify-content: center">
                         <a
                             href="https://react.dev/"
                             style="margin: 0px 10px; text-decoration: none"
@@ -181,19 +207,6 @@
                             <img
                                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
                                 alt="javascript"
-                                width="60"
-                                height="60"
-                            />
-                        </a>
-                        <a
-                            href="https://www.typescriptlang.org/"
-                            style="margin: 0px 10px; text-decoration: none"
-                            target="_blank"
-                            rel="noreferrer"
-                        >
-                            <img
-                                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-                                alt="typescript"
                                 width="60"
                                 height="60"
                             />
@@ -253,20 +266,7 @@
                             />
                         </a>
                     </div>
-                    <div style="display: flex; flex-direction: row; justify-content: center">
-                        <a
-                            href="https://nodejs.org/en"
-                            target="_blank"
-                            style="margin: 0px 10px; text-decoration: none"
-                            rel="noreferrer"
-                        >
-                            <img
-                                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
-                                alt="nodejs"
-                                width="60"
-                                height="60"
-                            />
-                        </a>
+                    <div style="display: flex; flex-direction: row; justify-content: center"> 
                         <a
                             href="https://firebase.google.com/"
                             style="margin: 0px 10px; text-decoration: none"
@@ -289,6 +289,19 @@
                             <img
                                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg"
                                 alt="dbeaver"
+                                width="60"
+                                height="60"
+                            />
+                        </a>
+                          <a
+                            href="https://unity.com/"
+                            style="margin: 0px 10px; text-decoration: none"
+                            target="_blank"
+                            rel="noreferrer"
+                        >
+                            <img
+                                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg"
+                                alt="unity"
                                 width="60"
                                 height="60"
                             />
